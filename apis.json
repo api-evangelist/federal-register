@@ -1,0 +1,44 @@
+{
+    "name": "Federal Register",
+    "description": "<p>The Federal Register, abbreviated FR or sometimes Fed. Reg., is the official journal of the federal government of the United States that contains government agency rules, proposed rules, and public notices.[1] It is published daily, except on federal holidays. The final rules promulgated by a federal agency and published in the Federal Register are ultimately reorganized by topic or subject matter and codified in the Code of Federal Regulations (CFR), which is updated annually.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/450px-FedRegI.JPG",
+    "tags": [
+        "api provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/federal-register\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Federal Register",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/450px-FedRegI.JPG",
+            "humanURL": "http:\/\/www.federalregister.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/federal-register-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.federalregister.gov\/blog\/learn\/developers"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.federalregister.gov"
+        },
+        {
+            "type": "Wikipedia",
+            "url": "http:\/\/en.wikipedia.org\/wiki\/Federal_Register"
+        }
+    ]
+}
