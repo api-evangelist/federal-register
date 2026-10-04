@@ -39,7 +39,6 @@ apis:
   - name: Federal Register
     description: "The Daily Journal of the United States Government"
     humanURL: https://www.federalregister.gov/reader-aids/developer-resources/rest-api
-    baseURL: https://www.federalregister.gov/reader-aids/developer-resources/rest-api
     tags:
       - Government
     properties:
